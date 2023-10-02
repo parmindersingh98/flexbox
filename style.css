@@ -66,10 +66,12 @@ header{
 
 .column{
     flex-direction: column;
+    min-height: 350px;
 }
 
 .column-reverse{
     flex-direction: column-reverse;
+    min-height: 350px;
 }
 
 .justify-content-start{
