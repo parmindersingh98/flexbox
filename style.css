@@ -71,3 +71,11 @@ header{
 .column-reverse{
     flex-direction: column-reverse;
 }
+
+.justify-content-start{
+    justify-content: flex-start;
+}
+
+.justify-content-end{
+    justify-content: flex-end;
+}
